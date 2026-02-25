@@ -4,9 +4,9 @@ Farm2Future is developing an integrated agricultural robotics ecosystem designed
 
 ---
 
-## 🌾 Core Products
+##  Core Products
 
-### 🤖 Agribot
+###  Agribot
 A modular ground-based agricultural robot capable of performing:
 
 - Seeding
@@ -19,7 +19,7 @@ Agribot is designed with a modular architecture, allowing farmers to switch agri
 
 ---
 
-### 🦾 AgriArm (Greenhouse Automation System)
+###  AgriArm (Greenhouse Automation System)
 
 AgriArm is a robotic arm platform designed for greenhouse environments to perform repetitive agricultural tasks such as:
 
@@ -32,7 +32,7 @@ The system is built for structured indoor farming environments where precision a
 
 ---
 
-### 🚁 AgriDrone (In Development)
+###  AgriDrone (In Development)
 
 Aerial platform for:
 
@@ -43,7 +43,7 @@ Aerial platform for:
 
 ---
 
-## 🧠 System Design Philosophy
+##  System Design Philosophy
 
 - Modular hardware architecture  
 - Scalable deployment model  
