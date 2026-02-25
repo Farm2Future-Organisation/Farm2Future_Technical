@@ -67,5 +67,4 @@ Prototype development phase.
 
 ---
 
-## License
-MIT License
+© 2026 Farm2Future. All rights reserved.
