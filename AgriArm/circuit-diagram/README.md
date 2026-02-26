@@ -2,7 +2,7 @@
 
 This directory contains:
 
-- ESP32 wiring diagram
+- Arduino Uno wiring diagram
 - Servo motor connections
 - Power distribution layout
 - Serial communication interface
