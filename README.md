@@ -51,7 +51,7 @@ AgriArm is a 6-DOF robotic arm designed for repetitive greenhouse tasks.
 
 ## Core Specifications
 
-- Controller: ESP32
+- Controller: Arduino Uno
 - Actuation: Servo Motors
 - Degrees of Freedom: 6 DOF
 - Power Source:
